@@ -1,1 +1,2 @@
 it is file 3
+updating file3 
